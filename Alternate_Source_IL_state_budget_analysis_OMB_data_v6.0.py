@@ -10,10 +10,8 @@ import numpy as np
 # The OMB is an alternate source of information than the Comptroller on IL Spending.
 # The two data sources offer different Pros and Cons. 
 
-
 # Pros of OMB
 # Offers some detail in the data that the Comptroller does  (i.e. Approriation detail, including description and overall spend for given Approriation ID)
-
 
 # Cons of OMB
 # Only updated annually,  
